@@ -1,2 +1,4 @@
 # tp-monopoly-funcional
-materia: Paradigmas de programacion, tp monopoly usando lenguaje Haskell, programacion funcional 
+Mmateria: Paradigmas de programacion
+tp monopoly usando lenguaje Haskell
+Programacion funcional 
